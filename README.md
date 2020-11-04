@@ -39,3 +39,11 @@ AZpractice questions
  *      Output: 3
  *      palindrome substrings:  "aba", "baab", "aa"
  */
+
+/**
+ * Last one I have dificulty rememebering what the question was
+ * Given an array, create a different array with different combination of elements from 
+ * the first array and the same length of the first array
+ * Example:
+ *      Input: [A,B,C,D]
+ *      Output: [[BCD],[ACD],[ABD],[ABC]]
